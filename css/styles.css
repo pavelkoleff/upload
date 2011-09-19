@@ -1,0 +1,129 @@
+body {
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-right:0px;
+    margin-left:0px;
+	background-color:#dbdbdb;
+	font-family:Calibri;
+}
+a{
+	color:#82ae18;
+	font-family:Calibri;
+	font-size: 18px;
+	text-decoration: none;
+	line-height: 20px;
+}
+
+h1{
+	color:#645e44;
+}
+
+h3{
+	color:#373426;
+}
+
+.field{
+	color:#645e44;
+	font-family:Calibri;
+	font-size: 18px;
+	line-height: 20px;
+	width: 300px;
+}
+
+.login{
+	padding-top: 25px;
+}
+
+.login_form {
+    padding-top:50px;
+    padding-left:100px;
+    text-align:left;
+}
+
+.logout{
+	
+}
+
+.logout a{
+	text-decoration:underline; 
+	color:#fb8d02;
+}
+
+.tablehead{
+	text-decoration:underline;
+	font-weight: bold;
+}
+.admin_menu {
+    float:left;
+    width:200px;
+    height:100%;
+	min-height: 550px;
+    background:#f4f4f4;
+    padding:10px;
+}
+
+.admin_content {
+    float:right;
+    padding:10px;
+    width:80%;
+}
+
+.edit_form {
+
+}
+
+.labels {
+    float:left;
+    line-height:22px;
+	font-weight: bold;
+	color: #645e44;
+}
+
+.fieldin{
+	color:#645e44;
+	font-family:Calibri;
+	font-size: 18px;
+	line-height: 20px;
+	width: 500px;
+	margin-bottom:5px;
+}
+
+.dropbox{
+	color:#645e44;
+	font-family:Calibri;
+	font-size: 18px;
+	line-height: 20px;
+	width: 306px;
+	margin-bottom:5px;
+}
+
+.form_fields {
+    padding-left:50px;
+}
+
+.header {
+    width:100%;
+	min-height:50px;
+	background-image:url('../img/admin-header-back.png');
+	background-repeat:repeat-x;
+    padding:30px;
+	color:#fff;
+	font-size:25px;
+	font-weight: bold;
+}
+
+.ico{
+	width: 120px;
+	height: 120px;
+	background-color: #fff;
+	border:1px;
+	border-style: dotted;
+	border-color:#645e44;
+	margin: 130px 130px 130px 130px;
+}
+
+.dashboard{
+	width: 60px;
+	
+	
+}
